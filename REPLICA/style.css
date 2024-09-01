@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+.sidebar {
+    height:110vh;
+    width:300px;
+    background-color: rgba(231, 229, 224, 0.434);
+}
+.dp{
+    align-items: center;
+}
+.priya{
+    display: flex;
+    justify-content: space-evenly;
+}
+.profile{
+    display: flex;
+    justify-content: space-evenly;
+}
